@@ -1,0 +1,48 @@
+\begin{thebibliography}{1}
+
+\bibitem{phankokkruad2017influence}
+Manop Phankokkruad and Phichaya Jaturawat.
+\newblock Influence of facial expression and viewpoint variations on face
+  recognition accuracy by different face recognition algorithms.
+\newblock In {\em 2017 18th IEEE/ACIS International Conference on Software
+  Engineering, Artificial Intelligence, Networking and Parallel/Distributed
+  Computing (SNPD)}, pages 231--237. IEEE, 2017.
+
+\bibitem{paul2020comparative}
+Sanmoy Paul and Sameer~Kumar Acharya.
+\newblock A comparative study on facial recognition algorithms.
+\newblock In {\em e-journal-First Pan IIT International Management
+  Conference--2018}, 2020.
+
+\bibitem{sirovich1987low}
+Lawrence Sirovich and Michael Kirby.
+\newblock Low-dimensional procedure for the characterization of human faces.
+\newblock {\em Josa a}, 4(3):519--524, 1987.
+
+\bibitem{lata2009facial}
+Y~Vijaya Lata, Chandra Kiran~Bharadwaj Tungathurthi, H~Ram~Mohan Rao,
+  A~Govardhan, and LP~Reddy.
+\newblock Facial recognition using eigenfaces by pca.
+\newblock {\em International Journal of Recent Trends in Engineering},
+  1(1):587, 2009.
+
+\bibitem{padilla2012evaluation}
+Rafael Padilla, CFF Costa~Filho, and MGF Costa.
+\newblock Evaluation of haar cascade classifiers designed for face detection.
+\newblock {\em World Academy of Science, Engineering and Technology},
+  64:362--365, 2012.
+
+\bibitem{rahmad2020comparison}
+C~Rahmad, R~An Asmara, DRH Putra, I~Dharma, H~Darmono, and I~Muhiqqin.
+\newblock Comparison of viola-jones haar cascade classifier and histogram of
+  oriented gradients (hog) for face detection.
+\newblock In {\em IOP conference series: materials science and engineering},
+  volume 732, page 012038. IOP Publishing, 2020.
+
+\bibitem{jun2021development}
+Zhao Jun.
+\newblock The development and application of support vector machine.
+\newblock In {\em Journal of Physics: Conference Series}, volume 1748, page
+  052006. IOP Publishing, 2021.
+
+\end{thebibliography}
