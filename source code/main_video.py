@@ -1,6 +1,7 @@
 import cv2
 import face_recognition
 import numpy as np
+
 # from simple_facerec import SimpleFacerec
 
 # Encode faces from a folder
