@@ -40,11 +40,11 @@ class SimpleFacerec:
             # Store file name and file encoding
             self.known_face_names.append(filename)
             self.known_face_encodings.append(img_encoding)
-        # data = np.asarray(self.known_face_encodings)
-        # np.save('ImageEncoding.npy', data)
-        # for known_face_names in self.known_face_names:
-        #     image_names.write(known_face_names+"\n")
-        # image_names.close()
+        data = np.asarray(self.known_face_encodings)
+        np.save('ImageEncoding.npy', data)
+        for known_face_names in self.known_face_names:
+            image_names.write(known_face_names+"\n")
+        image_names.close()
         print("Encoding images loaded")
 
     def detect_known_faces(self, frame):

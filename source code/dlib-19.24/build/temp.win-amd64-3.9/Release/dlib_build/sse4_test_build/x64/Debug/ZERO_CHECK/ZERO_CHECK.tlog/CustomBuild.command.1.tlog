@@ -1,0 +1,10 @@
+^D:\ARCHMAGE\SHARINGAN\SOURCE CODE\DLIB-19.24\BUILD\TEMP.WIN-AMD64-3.9\RELEASE\DLIB_BUILD\SSE4_TEST_BUILD\CMAKEFILES\3ABA36C10349DC896C77B1009C03FFC9\GENERATE.STAMP.RULE
+setlocal
+D:\Archmage\Sharingan\venv\Lib\site-packages\cmake\data\bin\cmake.exe "-SD:/Archmage/Sharingan/source code/dlib-19.24/dlib/cmake_utils/test_for_sse4" "-BD:/Archmage/Sharingan/source code/dlib-19.24/build/temp.win-amd64-3.9/Release/dlib_build/sse4_test_build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "D:/Archmage/Sharingan/source code/dlib-19.24/build/temp.win-amd64-3.9/Release/dlib_build/sse4_test_build/sse4_test.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

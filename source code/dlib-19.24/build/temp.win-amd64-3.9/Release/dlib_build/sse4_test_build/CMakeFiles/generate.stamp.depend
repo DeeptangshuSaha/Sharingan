@@ -1,0 +1,32 @@
+# CMake generation dependency list for this directory.
+D:/Archmage/Sharingan/source code/dlib-19.24/build/temp.win-amd64-3.9/Release/CMakeFiles/3.24.1/CMakeCCompiler.cmake
+D:/Archmage/Sharingan/source code/dlib-19.24/build/temp.win-amd64-3.9/Release/CMakeFiles/3.24.1/CMakeCXXCompiler.cmake
+D:/Archmage/Sharingan/source code/dlib-19.24/build/temp.win-amd64-3.9/Release/CMakeFiles/3.24.1/CMakeRCCompiler.cmake
+D:/Archmage/Sharingan/source code/dlib-19.24/build/temp.win-amd64-3.9/Release/CMakeFiles/3.24.1/CMakeSystem.cmake
+D:/Archmage/Sharingan/source code/dlib-19.24/build/temp.win-amd64-3.9/Release/dlib_build/sse4_test_build/CMakeFiles/CheckTypeSize/SIZE_OF_VOID_PTR.c
+D:/Archmage/Sharingan/source code/dlib-19.24/dlib/cmake_utils/set_compiler_specific_options.cmake
+D:/Archmage/Sharingan/source code/dlib-19.24/dlib/cmake_utils/test_for_sse4/CMakeLists.txt
+D:/Archmage/Sharingan/source code/dlib-19.24/dlib/cmake_utils/test_for_sse4/sse4_test.cpp
+D:/Archmage/Sharingan/venv/Lib/site-packages/cmake/data/share/cmake-3.24/Modules/CMakeCInformation.cmake
+D:/Archmage/Sharingan/venv/Lib/site-packages/cmake/data/share/cmake-3.24/Modules/CMakeCXXInformation.cmake
+D:/Archmage/Sharingan/venv/Lib/site-packages/cmake/data/share/cmake-3.24/Modules/CMakeCommonLanguageInclude.cmake
+D:/Archmage/Sharingan/venv/Lib/site-packages/cmake/data/share/cmake-3.24/Modules/CMakeGenericSystem.cmake
+D:/Archmage/Sharingan/venv/Lib/site-packages/cmake/data/share/cmake-3.24/Modules/CMakeInitializeConfigs.cmake
+D:/Archmage/Sharingan/venv/Lib/site-packages/cmake/data/share/cmake-3.24/Modules/CMakeLanguageInformation.cmake
+D:/Archmage/Sharingan/venv/Lib/site-packages/cmake/data/share/cmake-3.24/Modules/CMakeRCInformation.cmake
+D:/Archmage/Sharingan/venv/Lib/site-packages/cmake/data/share/cmake-3.24/Modules/CMakeSystemSpecificInformation.cmake
+D:/Archmage/Sharingan/venv/Lib/site-packages/cmake/data/share/cmake-3.24/Modules/CMakeSystemSpecificInitialize.cmake
+D:/Archmage/Sharingan/venv/Lib/site-packages/cmake/data/share/cmake-3.24/Modules/CheckIncludeFile.c.in
+D:/Archmage/Sharingan/venv/Lib/site-packages/cmake/data/share/cmake-3.24/Modules/CheckIncludeFile.cmake
+D:/Archmage/Sharingan/venv/Lib/site-packages/cmake/data/share/cmake-3.24/Modules/CheckIncludeFileCXX.cmake
+D:/Archmage/Sharingan/venv/Lib/site-packages/cmake/data/share/cmake-3.24/Modules/CheckTypeSize.c.in
+D:/Archmage/Sharingan/venv/Lib/site-packages/cmake/data/share/cmake-3.24/Modules/CheckTypeSize.cmake
+D:/Archmage/Sharingan/venv/Lib/site-packages/cmake/data/share/cmake-3.24/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+D:/Archmage/Sharingan/venv/Lib/site-packages/cmake/data/share/cmake-3.24/Modules/Compiler/MSVC-C.cmake
+D:/Archmage/Sharingan/venv/Lib/site-packages/cmake/data/share/cmake-3.24/Modules/Compiler/MSVC-CXX.cmake
+D:/Archmage/Sharingan/venv/Lib/site-packages/cmake/data/share/cmake-3.24/Modules/Compiler/MSVC.cmake
+D:/Archmage/Sharingan/venv/Lib/site-packages/cmake/data/share/cmake-3.24/Modules/Platform/Windows-MSVC-C.cmake
+D:/Archmage/Sharingan/venv/Lib/site-packages/cmake/data/share/cmake-3.24/Modules/Platform/Windows-MSVC-CXX.cmake
+D:/Archmage/Sharingan/venv/Lib/site-packages/cmake/data/share/cmake-3.24/Modules/Platform/Windows-MSVC.cmake
+D:/Archmage/Sharingan/venv/Lib/site-packages/cmake/data/share/cmake-3.24/Modules/Platform/Windows.cmake
+D:/Archmage/Sharingan/venv/Lib/site-packages/cmake/data/share/cmake-3.24/Modules/Platform/WindowsPaths.cmake
